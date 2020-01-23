@@ -173,6 +173,25 @@ dependencies:
   - zlib=1.2.11=h516909a_1006
   - zstd=1.4.3=h3b9ef0a_0
   - pip:
+    - chardet==3.0.4
+    - colorcet==2.0.2
+    - cycler==0.10.0
+    - datashader==0.10.0
+    - datashape==0.5.2
+    - decorator==4.4.1
+    - idna==2.8
+    - imageio==2.6.1
+    - kiwisolver==1.1.0
+    - matplotlib==3.1.2
+    - multipledispatch==0.6.0
+    - networkx==2.4
+    - param==1.9.2
+    - pyct==0.4.6
+    - pywavelets==1.1.1
+    - requests==2.22.0
+    - scikit-image==0.16.2
     - umap-learn==0.3.10
+    - urllib3==1.25.8
+    - xarray==0.14.1
 prefix: /home/sheng/miniconda3/envs/umap
 
