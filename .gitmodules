@@ -1,0 +1,6 @@
+[submodule "vendor/umap"]
+	path = vendor/umap
+	url = https://github.com/lmcinnes/umap.git
+[submodule "vendor/gpumap"]
+	path = vendor/gpumap
+	url = https://github.com/p3732/gpumap.git
