@@ -19,7 +19,7 @@ dask-xgboost==0.1.5
 datashader==0.10.0
 datashape==0.5.2
 decorator==4.4.1
-distributed==2.9.3
+distributed==2021.10.0
 fastavro==0.22.9
 fastrlock==0.4
 fsspec==0.6.2
